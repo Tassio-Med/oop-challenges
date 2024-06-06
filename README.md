@@ -1,6 +1,6 @@
 # OOP Challenges
 
-This repository is dedicated to practicing Object-Oriented Programming (OOP) concepts in TypeScript and C#. The challenges and exercises provided here are designed to help improve your understanding and application of OOP principles such as inheritance, encapsulation, polymorphism, and abstraction.
+This repository is dedicated to practicing Object-Oriented Programming (OOP) concepts in TypeScript and C#. The challenges and exercises provided here are designed to help improve my understanding and application of OOP principles such as inheritance, encapsulation, polymorphism, and abstraction.
 
 ## Getting Started
 
