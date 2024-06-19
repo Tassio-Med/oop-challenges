@@ -5,7 +5,7 @@ class Biblioteca extends Livro {
   private livros: Livro[];
 
   constructor(nome: string) {
-    super('', '', 0); // Chamada ao construtor da classe pai (Livro)
+    super('', '', 0)
     this.nome = nome;
     this.livros = [];
   }

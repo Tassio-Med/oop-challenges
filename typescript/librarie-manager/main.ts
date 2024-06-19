@@ -1,4 +1,3 @@
-// main.ts
 import Biblioteca from "./src/biblioteca";
 import { Livro } from "./src/livros";
 

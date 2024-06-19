@@ -1,4 +1,3 @@
-// livros.ts
 export class Livro {
   protected titulo: string;
   protected autor: string;
