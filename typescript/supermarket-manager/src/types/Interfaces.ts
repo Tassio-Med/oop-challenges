@@ -12,7 +12,7 @@ export interface ICustomer {
   id: UUID;
   name: string;  
   email: string;  
-  phone: number;
+  phone: string;
 }
 export interface ISale {
   id: UUID;
